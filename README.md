@@ -40,6 +40,19 @@ HUIMAO Parking（慧猫开源停车平台）是一款基于 MIT 协议发布的�
 ![b6e88fd1c2ff443c664ba6670640e614_13.png](doc/images/b6e88fd1c2ff443c664ba6670640e614_13.png)
 ![5df9e18f8049ac1d5d2b25c12a931653_14.png](doc/images/5df9e18f8049ac1d5d2b25c12a931653_14.png)
 
+### 系统演示
+
+管理后台在线体验：http://huimao.pc.huizhidata.com/
+
+账号：hengtong
+密码：admin123456
+
+> 演示账号与云端服务仓库 README「系统演示」保持一致，如有变化以线上为准。
+
+车主端小程序：扫码体验
+
+![4a8b298360d4a10cc4727b8e7aeda988.png](doc/images/4a8b298360d4a10cc4727b8e7aeda988.png)
+
 整套系统分为三个端，数据统一、业务同步：
 
 | 端 | 仓库 | 说明 |
@@ -125,19 +138,6 @@ src/
 ├── utils/       工具方法
 └── views/       页面（dashboard / system / parking / job / monitor / tool）
 ```
-
-## 系统演示
-
-管理后台在线体验：http://huimao.pc.huizhidata.com/
-
-账号：hengtong
-密码：admin123456
-
-> 演示账号与云端服务仓库 README「系统演示」保持一致，如有变化以线上为准。
-
-车主端小程序：扫码体验
-
-![4a8b298360d4a10cc4727b8e7aeda988.png](doc/images/4a8b298360d4a10cc4727b8e7aeda988.png)
 
 ## 📚 相关资料
 
