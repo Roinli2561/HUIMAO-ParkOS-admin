@@ -1,9 +1,9 @@
 {
-  "name": "huimao-platfrom-ui",
+  "name": "huimao-parkos-admin",
   "version": "1.0.0",
-  "description": "huimao开发平台",
+  "description": "慧猫开源停车平台 · 运营管理后台",
   "author": "",
-  "license": "",
+  "license": "MIT",
   "scripts": {
     "dev": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve",
     "build:prod": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service build",
