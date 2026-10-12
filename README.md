@@ -139,6 +139,12 @@ src/
 └── views/       页面（dashboard / system / parking / job / monitor / tool）
 ```
 
+---
+
+### 🖥 +v:18601938676 如果您也对开源感兴趣，欢迎加入群 ,加群请注明原因，开源、共享、共赢永远是主旋律。
+
+![输入图片说明](doc/huizhi/images/我的.png)
+
 ## 📚 相关资料
 
 - ☁️ 云端服务：https://github.com/Roinli2561/HUIMAO-ParkOS-cloud
